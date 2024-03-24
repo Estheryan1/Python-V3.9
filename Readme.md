@@ -3,10 +3,10 @@
 ## Conda
 
 ```ini
-conda create -n python-hello-world python=3.6
+conda create -n python-V39 python=3.9
 
 # 激活环境
-conda activate python-hello-world
+conda activate python-V39 
 
 ## 关闭环境
 conda deactivate
